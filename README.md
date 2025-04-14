@@ -24,4 +24,4 @@ This project simulates a bank environment using thread synchronization in Python
 2. Change the directory to the root of the repository.
 3. Run the program using:
    ```bash
-   python3 bank_simulation.py
+   python3 main.py
