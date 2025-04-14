@@ -1,3 +1,7 @@
+#Logan Margabandu
+#lmm220012
+#CS 4348 - Project 2
+
 import threading
 import time
 import random
